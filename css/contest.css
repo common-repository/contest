@@ -1,0 +1,195 @@
+.center {
+  text-align: center;
+}
+.contest-block-list {
+  margin-left: 1.0rem;
+}
+.contest-form-table {
+  border: 1px #cccccc solid;
+  max-width: 25.0rem;
+  padding: 0.25rem;
+  width: 25.0rem;
+}
+.contest-notice {
+  margin: 1.0rem 1.25rem 1.0rem 0;
+}
+.contest-notice-error {
+  background-color: #ffeeee;
+  border: 1px #ff0000 solid;
+  color: #330000;
+  margin-right: 1.0rem;
+  padding: 1.0rem;
+}
+.contest-notice-notice {
+  background-color: #eeffee;
+  border: 1px #00ff00 solid;
+  color: #003300;
+  margin-right: 1.0rem;
+  padding: 1.0rem;
+}
+.contest-notice-warning {
+  background-color: #ffffee;
+  border: 1px #ffcc00 solid;
+  color: #333300;
+  margin-right: 1.0rem;
+  padding: 1.0rem;
+}
+.contest-details {
+  font-family: "Trebuchet MS",Helvetica,sans-serif;
+  font-variant: small-caps;
+}
+.contest-detail-label {
+	font-weight: bold;
+	padding-right: 0.5rem;
+}
+.even {
+  background-color: #dddddd;
+}
+.odd {
+  background-color: #bbbbbb;
+}
+input.invalid {
+  background:#ffaaaa;
+}
+fieldset.contest-entry {
+  border: 1px #cccccc solid;
+}
+fieldset.contest-tnc li {
+  margin-left: 2.0rem;
+}
+.contest-archive div.content {
+  clear: both;
+  font-size: 1.25rem;
+  margin: 1.0rem 8.3333%;
+}
+.contest-archive div.content h2 {
+  float: left;
+  font-size: 1.75rem;
+  margin: 0 auto 0.5rem auto;
+  text-align: center;
+  width: 100%;
+}
+.contest-archive div.content img.attachment-thumbnail {
+  float: left;
+  margin: 0 1.0rem 1.0rem 0;
+}
+.contest-tnc li {
+  font-family: "Trebuchet MS",Helvetica,sans-serif;
+  font-size: 1.0rem;
+  font-variant: small-caps;
+  line-height: 2.0rem;
+  padding-bottom: 1.0rem;
+}
+.entry-content fieldset {
+  height: 0;
+  overflow: hidden;
+}
+.entry-content fieldset.active {
+  height: auto;
+}
+.contest-form-table .contest-profile-label {
+  padding: 0.25rem;
+  text-align: right;
+  vertical-align: middle;
+  width: 34%;
+}
+.type-contest .contest-form-table {
+  max-width: none;
+  width: 100%;
+}
+a:link span.raquo {
+  padding-left: 0.5rem;
+  padding-right: 1.0rem;
+}
+a:hover span.raquo {
+  padding-left: 1.0rem;
+  padding-right: 0.5rem;
+}
+fieldset.contest-entry legend {
+  margin-top: -3.0rem;
+}
+fieldset.contest-entry legend a:link {
+}
+fieldset.contest-entry table.contest-form-table {
+  border: none;
+}
+fieldset.contest-entry table.contest-form-table tr {
+  border: none;
+}
+fieldset.contest-entry table.contest-form-table td,
+fieldset.contest-entry table.contest-form-table th {
+  border: none;
+  border-bottom: 1px #cccccc solid;
+}
+#contest-admin-tnc-description {
+	border: 1px #cccccc solid;
+	margin: 1.0rem auto 1.0rem 0;
+	padding: 1.0rem;
+	width: 35.0rem;
+}
+#contest-birthdate {
+  border: 1px #cccccc solid;
+  padding: 0.25rem 0;
+}
+#contest-msgs {
+  border: 1px solid #cccccc;
+  padding: 0.5rem;
+  margin: 1.0rem;
+  background-color: #eeeeee;
+}
+#contest-results {
+  margin: 0 auto;
+  width: 90%;
+}
+#contest-admin .inactive {
+  color: #aaaaaa;
+}
+#contest-admin .contest-admin-edit {
+  margin: 1.0rem auto 1.0rem 0;
+}
+#contest-admin fieldset.contest-admin-host,
+#contest-admin fieldset.contest-admin-sponsor {
+  border: 1px #cccccc solid;
+  margin: 1.0rem auto;
+  padding:0.5rem;
+  width: 50%;
+}
+#contest-admin table {
+  min-width: 30.0rem;
+  width: 50%;
+}
+#contest-admin table caption,
+#contest-results table caption {
+  font-size: 1.0rem;
+  font-weight: bold;
+  text-align: center;
+}
+#contest-admin table.contest-admin-contestants tr.winner {
+  background-color: #ffaaaa;
+}
+#contest-admin table.contest-admin-contestants tr.winner.even {
+  background-color: #ffc6b1;
+}
+#contest-admin table.contest-admin-contestants tr.winner.odd {
+  background-color: #ffc0cb;
+}
+#contest-admin table.contest-admin-contestants.published-winners td.actions a,
+#contest-admin table.contest-admin-winners.published-winners td.actions a {
+  display: none;
+}
+#contest-admin ul.contest-admin-actions {
+  list-style-position: inside;
+  padding: 0;
+}
+#contest-msgs ul {
+  font-size: 1.25rem;
+  margin-left: 2.0rem;
+}
+#contest-msgs li {
+  padding-bottom: 1.0rem;
+}
+#contest-results table caption {
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+/*** Unsorted ***/
